@@ -1,0 +1,20 @@
+body{
+	
+	
+	background-image: linear-gradient(to bottom right, #d7e0da,#b0c2b0 );
+
+	}
+#box{
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	margin-top: 2%;
+	
+	margin-bottom: 2%;
+	margin-left: 20%;
+	margin-right: 20%;
+	padding-top: 2%;	
+	padding-bottom: 1%;	
+	font-family: 'Work Sans', sans-serif; 
+}
+
+
+
